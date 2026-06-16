@@ -1,4 +1,4 @@
-🌱 IoT-Based Smart Greenhouse with Cloud Logging & AI Consultation
+### 🌱 IoT-Based Smart Greenhouse with Cloud Logging & AI Consultation
 📌 Project Overview
 Traditional greenhouse monitoring systems output raw telemetry that is often difficult for non-technical users to interpret, lacking both historical data retention and actionable intelligence.
 
